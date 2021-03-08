@@ -5,6 +5,7 @@
 
 * [Manifiesto](#manifiesto)
 * [Firmas](#firmas)
+* [Contacto](#contacto)
 
 ## Manifiesto
 
@@ -232,6 +233,10 @@ Por todo ello, con este breve texto, los abajo firmantes queremos dejar constanc
 210. Dr. Joaquín Sabaté Bel, arquitecto y economista, Profesor ETSAB (UPC).
 211. Enrique Espinosa Pérez. Profesor asociado DPA ETSAM, Universidad Politécnica de Madrid. Doctorando en la Universidad de Alicante
 212. Anna Carreras, BAU Centro Universitario de Diseño de Barcelona.
+
+## Contacto
+
+Para más información sobre el manifiesto, o si desea adherirse a él, puede escribir a: acorsin[at]gmail.com
 
 <style>
 h1:nth-child(1) {
