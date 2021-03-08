@@ -1,6 +1,6 @@
 <meta property="og:title" content="Medialab-Prado y la Academia. Alegato en defensa de un centro de producción de conocimiento">
 
-# Medialab-Prado y la Academia.
+# Medialab-Prado y la Academia
 ## Alegato en defensa de un centro de producción de conocimiento 
 
 * [Manifiesto](#manifiesto)
