@@ -234,10 +234,11 @@ Por todo ello, con este breve texto, los abajo firmantes queremos dejar constanc
 211. Enrique Espinosa Pérez. Profesor asociado DPA ETSAM, Universidad Politécnica de Madrid. Doctorando en la Universidad de Alicante
 212. Anna Carreras, BAU Centro Universitario de Diseño de Barcelona.
 213. Dr. Pedro Tomé, Antropólogo, Consejo Superior de Investigaciones Científicas.
+214. Carmen Canton, Organización Museo Creando Bosques 
 
 ## Contacto
 
-Para más información sobre el manifiesto, o si desea adherirse a él, puede escribir a: acorsin[at]gmail.com
+Para más información sobre el manifiesto puede escribir a: acorsin[at]gmail.com
 
 <style>
 h1:nth-child(1) {
