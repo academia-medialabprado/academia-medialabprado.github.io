@@ -233,6 +233,7 @@ Por todo ello, con este breve texto, los abajo firmantes queremos dejar constanc
 210. Dr. Joaquín Sabaté Bel, arquitecto y economista, Profesor ETSAB (UPC).
 211. Enrique Espinosa Pérez. Profesor asociado DPA ETSAM, Universidad Politécnica de Madrid. Doctorando en la Universidad de Alicante
 212. Anna Carreras, BAU Centro Universitario de Diseño de Barcelona.
+213. Dr. Pedro Tomé, Antropólogo, Consejo Superior de Investigaciones Científicas.
 
 ## Contacto
 
