@@ -236,6 +236,8 @@ Por todo ello, con este breve texto, los abajo firmantes queremos dejar constanc
 213. Dr. Pedro Tomé, Antropólogo, Consejo Superior de Investigaciones Científicas.
 214. Carmen Canton, Organización Museo Creando Bosques.
 215. Dr. David Rodríguez Mateos. Profesor de Periodismo de Datos. Departamento de Comunicación. Universidad Carlos III de Madrid.
+216. Dr. Pablo Escandón, Profesor de Comunicación Digital, Universidad Andina Simón Bolívar, sede Ecuador.
+217. Javier Collado Gutiérrez. Laboratorio de fabricación digital, Universidad Europea de Madrid.
 
 ## Contacto
 
