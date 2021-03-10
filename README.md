@@ -240,6 +240,7 @@ Por todo ello, con este breve texto, los abajo firmantes queremos dejar constanc
 217. Javier Collado Gutiérrez. Laboratorio de fabricación digital, Universidad Europea de Madrid.
 218. Dr. Fernando Bordignon, Profesor Investigador, Universidad Pedagógica Nacional, Argentina.
 219. Dr. Yaiza Hernández Velázquez, Lecturer, Visual Cultures Department, Goldsmiths, University of London.
+220. Javier Burón García. Lecturer and Fab Lab Director, School of Architecture, University of Limerick, Ireland.
 
 ## Contacto
 
