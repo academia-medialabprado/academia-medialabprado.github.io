@@ -240,6 +240,7 @@ Por todo ello, con este breve texto, los abajo firmantes queremos dejar constanc
 217. Javier Collado Gutiérrez. Laboratorio de fabricación digital, Universidad Europea de Madrid.
 218. Dr. Fernando Bordignon, Profesor Investigador, Universidad Pedagógica Nacional, Argentina.
 219. Dr. Yaiza Hernández Velázquez, Lecturer, Visual Cultures Department, Goldsmiths, University of London.
+220. Dr. Cristina Sánchez Carretero, Antropóloga, Instituto de Ciencias del Patrimonio, CSIC, Santiago de Compostela. 
 
 ## Contacto
 
